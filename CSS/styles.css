@@ -1,11 +1,7 @@
-.cabecera{
-    text-align: center;
-    border: 2px solid white;
-}
-
-body{
-    text-align: center;
-    font-family: cursive;
+div{
+    height: 250px;
+    background-color: purple;
     color: white;
-    background-color: black;
+    font-size: 50px;
+    margin: 20px;
 }
